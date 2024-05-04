@@ -12,6 +12,7 @@ BLUE = (0, 0, 255)
 GREY = (128,128,128)
 
 CROWN = pygame.transform.scale(pygame.image.load('D:\IIIT Naya Raipur\Codes\Codeforces\1100\crown.png'), (44, 25))
+// Here, the path of the image should be used to get the image
 
 WIDTH, HEIGHT = 800, 800
 ROWS, COLS = 8, 8
